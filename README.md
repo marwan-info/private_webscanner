@@ -1,4 +1,3 @@
-# private_webscanner
 # 🎯 Recon Automation Script — Full Guide
 
 > **Script**: `recon.sh`
