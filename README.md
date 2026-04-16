@@ -1,8 +1,8 @@
-# 🎯 Recon Automation Script — Full Guide
+# 🎯 full scan Automation Script — Full Guide
 
-> **Script**: `recon.sh`
-> **Usage**: `./recon.sh <target_domain> [resolvers_path]`
-> **Example**: `./recon.sh example.com resolvers.txt`
+> **Script**: `webcore.sh`
+> **Usage**: `./webcore.sh <target_domain> [resolvers_path]`
+> **Example**: `./webcore.sh example.com resolvers.txt`
 
 ---
 
